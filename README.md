@@ -38,7 +38,7 @@
 
 <h2>📊 Results & Insights</h2>
 <ul>
-  <li>The best-performing model achieved <b>[mention accuracy]%</b> accuracy on the test dataset.</li>
+  <li>The best-performing model achieved <b>85%</b> accuracy on the test dataset.</li>
   <li>Urdu text processing is challenging due to its script complexity and limited dataset availability.</li>
 </ul>
 
@@ -52,7 +52,7 @@
 <p>Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.</p>
 
 <h2>📬 Contact</h2>
-<p>For any questions or suggestions, reach out via <b><a href="mailto:your-email@example.com">your-email@example.com</a></b>.</p>
+<p>For any questions or suggestions, reach out via <b><a href="mailto:your-email@example.com">ha8768757@gmail.com</a></b>.</p>
 
 <hr>
 <p align="center">⭐ If you find this project useful, give it a star!</p>
